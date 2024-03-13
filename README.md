@@ -1,4 +1,4 @@
-# Simplified-ERP-System
-![Screenshot (40)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/79f108a6-ae69-4008-9a00-924e5e435d97)
-![Screenshot (41)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/f5cb338e-ef9a-4487-a44f-b937d31277ae)
-![Screenshot (42)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/c1e34c2c-b99c-405c-97de-926fc8edf458)
+# Simplified-ERP-System!
+[Screenshot (43)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/5b3a8496-79b9-41aa-bb77-10b3a8834d18)
+![Screenshot (44)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/f2b65e5e-f59c-4313-ba36-8580bb26a700)
+![Screenshot (45)](https://github.com/aniroop08/Simplified-ERP-System/assets/112757035/4262c26f-22f3-44c3-98eb-0a10d7fa2d60)
