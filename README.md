@@ -28,7 +28,7 @@ After installing the dependencies, you can run the application using the followi
 
 _npm run dev_
 
-This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access it at http://localhost:3000.
+This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access it at http://localhost:5173.
 
 ## Usage
 **Dashboard**
